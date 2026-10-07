@@ -1,6 +1,6 @@
 cask "task-manager" do
-  version "0.4.2"
-  sha256 "e64b451867b5f03a2e1c4e72a1d6cca5a4ec6dcab5797fc74c933d2a535397e0"
+  version "0.4.3"
+  sha256 "fb4e89e44c3cb9992e966746031f449b79751da1deeaf8c56ffd3cd5d94744c5"
 
   url "https://github.com/Ol775/macos-task-manager/releases/download/v#{version}/Task-Manager-#{version}.dmg"
   name "Task Manager"
